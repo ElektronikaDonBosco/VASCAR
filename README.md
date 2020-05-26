@@ -56,7 +56,7 @@ En este apartado explicaremos detalladamente las diferentes partes que forman es
 
 ### 1. Esquema por Bloques
 
-![Arduino](https://github.com/asieriglesias/VASCAR/blob/master/Imagenes/Bloques.png)
+![Bloques.png](https://github.com/asieriglesias/VASCAR/blob/master/Imagenes/Bloques.png)
 
 ### 2. Fuente de Alimentación
 
