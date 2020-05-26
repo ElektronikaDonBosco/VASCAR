@@ -48,6 +48,10 @@ El siguiente paso será pulsar el botón de la parte de arriba del carro para in
 
 Por último, si queremos seguir utilizando el carro, volveremos a la página web, indicaremos una nueva ubicación y pulsaremos el botón de la parte superior. Para más información, los programas se encuentran el la parte de código de este proyecto.
 
+# Esquema eléctrico
+
+![Arduino](https://github.com/asieriglesias/VASCAR/blob/master/Imagenes/Esquema%20El%C3%A9ctrico.PNG)
+
 # Especificaciones
 
 En este apartado explicaremos detalladamente las diferentes partes que forman este proyecto y las especificaciones de dichas partes.
