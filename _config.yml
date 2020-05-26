@@ -1,5 +1,5 @@
+theme: jekyll-theme-cayman
+
 plugins:
 - jekyll-remote-theme
 remote_theme: chromatical/jekyll-materialdocs
-
-theme: jekyll-theme-cayman
